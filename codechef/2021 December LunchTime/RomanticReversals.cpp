@@ -1,3 +1,9 @@
+// links 
+// https://www.geeksforgeeks.org/substring-in-cpp/
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
